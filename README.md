@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there I am Ruchith, currently a univercity student working on small projects.
+Hello there I am Ruchith, an IT undergraduate, International Relations student, a fantasy world builder and writer.  
+Currently perusing my degree in Software Engineering at the Informatics Institute of Technology, Sri Lanka.  
+I have a passion for technology and a keen interest in web development, programming, and digital art.
+On a side note, I also actively engage in writing web-fiction.✨
 
 <h3> 🚀 Some Tools I Have Used and Learned</h3>
 <p align="left">
@@ -27,8 +30,11 @@ Hello there I am Ruchith, currently a univercity student working on small projec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="bash" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"  alt="bash" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="bash" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="bash" width="35" height="35"/>
+                    </br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="bash" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="bash" width="35" height="35"/>
 
