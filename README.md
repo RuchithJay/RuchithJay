@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello there I am Ruchith, an IT undergraduate, International Relations student, a fantasy world builder and writer.  
 Currently perusing my degree in Software Engineering at the Informatics Institute of Technology, Sri Lanka.  
-I have a passion for technology and a keen interest in web development, programming, and digital art.
+I have a passion for technology and a keen interest in web development, programming, and digital art.  
 On a side note, I also actively engage in writing web-fiction.✨
 
 <h3> 🚀 Some Tools I Have Used and Learned</h3>
