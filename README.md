@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there I am Ruchith, an IT undergraduate, International Relations student, a fantasy world builder and writer.  
+I am Ruchith, an IT undergraduate, International Relations student, a fantasy world builder and writer.  
 I have a passion for technology and a keen interest in web development, programming, and digital art.  
 On a side note, I also actively engage in writing web-fiction.✨
 
