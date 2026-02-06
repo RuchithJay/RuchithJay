@@ -74,7 +74,7 @@ I build thoughtful, high-impact web applications that prioritize user experience
   <img src="https://github-readme-stats.vercel.app/api?username=RuchithJay&show_icons=true&theme=transparent&hide_border=true&title_color=20C20E&text_color=999" alt="Ruchith's Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchithJay&theme=transparent&hide_border=true&stroke=20C20E&ring=20C20E&fire=20C20E" alt="Streak" height="150" />
 </p> -->
-<h3> 📊 GitHub Activity </h3>
+<!-- <h3> 📊 GitHub Activity </h3> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuchithJay&show_icons=true&theme=dark&hide_border=true" alt="Ruchith's Stats" />
