@@ -62,7 +62,7 @@ I build thoughtful, high-impact web applications that prioritize user experience
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,py,js,ts,html,css,astro,react,nextjs,spring,nestjs,nodejs,mongodb,mysql,postgres,prisma,aws,docker,firebase,figma,ps,ai,xd" />
+    <img src="https://skillicons.dev/icons?i=java,go,py,js,ts,html,css,tailwind,astro,react,nextjs,spring,nestjs,nodejs,mongodb,mysql,postgres,supabase,prisma,netlify,aws,docker,firebase,figma,ps,ai,xd,notion" />
   </a>
 </p>
 
